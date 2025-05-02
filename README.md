@@ -52,8 +52,5 @@ Hi there! I'm **Houda Hasnaoui**, a passionate Full-Stack Developer and Computer
 📚 Currently specializing in software development and artificial intelligence  
 🏫 [ENSA OUJDA,MAROC]
 
-## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasnaoui2024&show_icons=true&theme=radical)](https://github.com/Hasnaoui2024)
-
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/houda-hasnaoui-968052281)
