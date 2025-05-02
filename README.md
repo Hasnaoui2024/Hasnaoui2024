@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 
 
-Hi there! I'm **Houda Hasnaoui**, a passionate Full-Stack Developer with expertise in web development, security, and emerging technologies. I thrive on building robust applications and continuously expanding my skills in DevOps and Data Science.
+Hi there! I'm **Houda Hasnaoui**, a passionate Full-Stack Developer and Computer Engineering student specializing in software development, AI and emerging technologies. I thrive on building robust applications and continuously expanding my skills in DevOps and Data Science.
 
 ## 🚀 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://houda-hasnaoui-portfolio.up.railway.app/)
@@ -47,8 +47,13 @@ Hi there! I'm **Houda Hasnaoui**, a passionate Full-Stack Developer with experti
 - **Agile Development**: Scrum methodology, Team collaboration
 - **Continuous Learning**: Tech watch (AI, Frameworks)
 
+## 🎓 Education
+**Computer Engineering Student**  
+📚 Currently specializing in software development and artificial intelligence  
+🏫 [ENSA OUJDA,MAROC]
+
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=votreusername&show_icons=true&theme=radical)](https://github.com/Hasnaoui2024)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasnaoui2024&show_icons=true&theme=radical)](https://github.com/Hasnaoui2024)
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/houda-hasnaoui-968052281)
