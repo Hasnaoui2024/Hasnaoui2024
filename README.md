@@ -50,7 +50,7 @@ Hi there! I'm **Houda Hasnaoui**, a passionate Full-Stack Developer and Computer
 ## 🎓 Education
 **Computer Engineering Student**  
 📚 Currently specializing in software development and artificial intelligence  
-🏫 [ENSA OUJDA,MAROC]
+🏫 [ENSA Oujda,Morroco]
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/houda-hasnaoui-968052281)
